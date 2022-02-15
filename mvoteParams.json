@@ -2,5 +2,8 @@
  "LPShare": "1",
  "BurnShare": "1",
  "XLMPairFixed": "0.3",
+ "AutoListPair": "7",
  "AutoListSize": "1000000",
- "AutoListPpl": "100"}
+ "AutoListPpl": "100",
+ "MVOTEPairListFee": "10000",
+ "OTHERPairListFee": "100000"}
