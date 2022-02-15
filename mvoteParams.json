@@ -4,6 +4,6 @@
  "XLMPairFixed": "0.3",
  "AutoListPair": "7",
  "AutoListSize": "1000000",
- "AutoListPpl": "100",
- "MVOTEPairListFee": "10000",
+ "AutoListPpl": "50",
+ "MVOTEPairListFee": "20000",
  "OTHERPairListFee": "100000"}
