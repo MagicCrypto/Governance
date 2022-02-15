@@ -1,4 +1,6 @@
 {"AQUAShare": "2",
  "LPShare": "1",
  "BurnShare": "1",
- "XLMPairFixed": "0.3"}
+ "XLMPairFixed": "0.3",
+ "AutoListSize": "1000000",
+ "AutoListPpl": "100"}
