@@ -5,5 +5,7 @@
  "AutoListPair": "7",
  "AutoListSize": "1000000",
  "AutoListPpl": "100",
- "MVOTEPairListFee": "20000",
- "OTHERPairListFee": "100000"}
+ "MVOTEPairListFee": "50000",
+ "OTHERPairListFee": "100000",
+ "MinAQUAVote": "100",
+ "MinBurnVote": "1"}
