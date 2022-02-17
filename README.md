@@ -1,2 +1,2 @@
 # Governance
-To store the parameters of Magic tokens.
+To store the parameters of all Magic tokens.
