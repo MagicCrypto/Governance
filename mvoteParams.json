@@ -4,7 +4,7 @@
  "XLMPairFixed": "0.3",
  "AutoListPair": "7",
  "AutoListSize": "1000000",
- "AutoListPpl": "100",
+ "AutoListPpl": "50",
  "MVOTEPairListFee": "50000",
  "OTHERPairListFee": "100000",
  "MinAQUAVote": "100",
